@@ -1,0 +1,145 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025000000000000001
+ColorEffect=2
+ContrastAmount=0.10000000000000001
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=149,79,51
+BackgroundNormal=45,36,29
+DecorationFocus=194,98,61
+DecorationHover=194,98,61
+ForegroundActive=194,98,61
+ForegroundInactive=185,185,185
+ForegroundLink=245,190,178
+ForegroundNegative=191,97,106
+ForegroundNeutral=255,170,127
+ForegroundNormal=225,225,225
+ForegroundPositive=0,170,127
+ForegroundVisited=122,71,144
+
+[Colors:Complementary]
+BackgroundAlternate=42,42,42
+BackgroundNormal=36,36,36
+DecorationFocus=194,98,61
+DecorationHover=194,98,61
+ForegroundActive=194,98,61
+ForegroundInactive=166,172,186
+ForegroundLink=245,190,178
+ForegroundNegative=191,97,106
+ForegroundNeutral=255,170,127
+ForegroundNormal=225,225,225
+ForegroundPositive=0,170,127
+ForegroundVisited=122,71,144
+
+[Colors:Selection]
+BackgroundAlternate=147,77,50
+BackgroundNormal=147,77,50
+DecorationFocus=194,98,61
+DecorationHover=194,98,61
+ForegroundActive=194,98,61
+ForegroundInactive=255,255,255
+ForegroundLink=142,72,45
+ForegroundNegative=191,97,106
+ForegroundNeutral=255,170,127
+ForegroundNormal=255,255,255
+ForegroundPositive=0,170,127
+ForegroundVisited=122,71,144
+
+[Colors:Tooltip]
+BackgroundAlternate=36,36,36
+BackgroundNormal=39,31,25
+DecorationFocus=194,98,61
+DecorationHover=194,98,61
+ForegroundActive=194,98,61
+ForegroundInactive=185,185,185
+ForegroundLink=245,190,178
+ForegroundNegative=191,97,106
+ForegroundNeutral=255,170,127
+ForegroundNormal=225,225,225
+ForegroundPositive=0,170,127
+ForegroundVisited=122,71,144
+
+[Colors:View]
+BackgroundAlternate=36,36,36
+BackgroundNormal=39,31,25
+DecorationFocus=194,98,61
+DecorationHover=194,98,61
+ForegroundActive=194,98,61
+ForegroundInactive=185,185,185
+ForegroundLink=245,190,178
+ForegroundNegative=191,97,106
+ForegroundNeutral=255,170,127
+ForegroundNormal=225,225,225
+ForegroundPositive=0,170,127
+ForegroundVisited=122,71,144
+
+[Colors:Window]
+BackgroundAlternate=39,31,25
+BackgroundNormal=39,31,25
+DecorationFocus=194,98,61
+DecorationHover=194,98,61
+ForegroundActive=194,98,61
+ForegroundInactive=185,185,185
+ForegroundLink=245,190,178
+ForegroundNegative=191,97,106
+ForegroundNeutral=255,170,127
+ForegroundNormal=225,225,225
+ForegroundPositive=0,170,127
+ForegroundVisited=122,71,144
+
+[General]
+AccentColor=194,98,61
+ColorSchemeHash=b25db286edc73f582d2b8d6b90c6bc0484c74859
+LastUsedCustomAccentColor=194,98,61
+
+[Icons]
+Theme=breeze
+
+[KDE]
+AnimationDurationFactor=0.25
+LookAndFeelPackage=CachyOS-Nord
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Date
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=Simple
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[WM]
+activeBackground=50,38,29
+activeBlend=39,31,25
+activeForeground=225,225,225
+inactiveBackground=39,31,25
+inactiveBlend=39,31,25
+inactiveForeground=131,141,157

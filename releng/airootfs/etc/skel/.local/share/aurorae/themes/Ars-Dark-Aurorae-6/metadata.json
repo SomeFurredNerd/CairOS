@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Ars-Dark-Aurorae-6",
+        "Description" : "Ars Window Decorations",
+        "Id": "Ars-Dark-Aurorae-6",
+        "License": "GPL v3",
+        "Version": "1.2",
+        "X-KDE-PluginInfo-blur": true,
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}

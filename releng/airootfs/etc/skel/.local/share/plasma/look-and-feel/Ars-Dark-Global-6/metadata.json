@@ -1,0 +1,37 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Ars-Dark-Global-6",
+        "Description": "Ars-Dark Global Theme by l4k1",
+        "Id": "Ars-Dark-Global-6",
+        "Version": "3.1",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Ars-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2192455",
+        "kns://window-decorations.knsrc/api.kde-look.org/2192450",
+        "kns://colorschemes.knsrc/api.kde-look.org/2192412",
+        "kns://colorschemes.knsrc/api.kde-look.org/2192414",
+        "kns://icons.knsrc/api.kde-look.org/2192428",
+        "kns://icons.knsrc/api.kde-look.org/2192424",
+        "kns://icons.knsrc/api.kde-look.org/2234790",
+        "kns://icons.knsrc/api.kde-look.org/2234789",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2192435",
+        "kns://wallpaper.knsrc/api.kde-look.org/2192391",
+        "kns://wallpaper.knsrc/api.kde-look.org/2192390",
+        "kns://wallpaper.knsrc/api.kde-look.org/2192387",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2192446"
+    ]
+}

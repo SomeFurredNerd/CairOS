@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=chmod +x /home/cairo/Desktop/"Reset Passwords.sh"
+Icon=
+Name=chmod
+Path=
+Terminal=False
+Type=Application

@@ -1,0 +1,24 @@
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+    <group name="General">
+        <entry name="showLyrics" type="Bool">
+            <label>Show lyrics</label>
+            <default>true</default>
+        </entry>
+        <entry name="highlightCurrentLine" type="Bool">
+            <label>Highlight current line</label>
+            <default>true</default>
+        </entry>
+        <entry name="showAlbumCover" type="Bool">
+            <label>Show album cover</label>
+            <default>true</default>
+        </entry>
+        <entry name="fetchAlbumCoverHttps" type="Bool">
+            <label>Fetch album cover from HTTPS sources</label>
+            <default>false</default>
+            <description>Enable this to fetch album covers from HTTPS sources, which is more secure.</description>
+        </entry>
+    </group>
+</kcfg>

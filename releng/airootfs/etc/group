@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:cairo
+wheel:x:10:cairo
+uucp:x:14:cairo
+cairo:x:1000:

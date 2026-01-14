@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=chmod -R 770 ~/.local/share/python
+Icon=
+Name=chmod
+Path=
+Terminal=False
+Type=Application

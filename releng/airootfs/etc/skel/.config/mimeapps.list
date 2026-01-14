@@ -1,0 +1,8 @@
+[Added Associations]
+application/x-shellscript=konsole.desktop;org.kde.kate.desktop;org.kde.kwrite.desktop;vim.desktop;
+
+[Default Applications]
+application/x-shellscript=konsole.desktop;
+
+[Removed Associations]
+application/x-shellscript=org.kde.konsole.desktop;konsole.desktop;

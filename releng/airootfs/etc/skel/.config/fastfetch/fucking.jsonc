@@ -1,0 +1,45 @@
+{
+  "logo": {
+    "source": "~/.config/fastfetch/mylogo.txt",
+    "type": "file-raw",
+    "color": {
+      "1": "yellow"
+      },
+    "padding": {
+      "left": 2,
+      "right": 4
+
+    }
+  },
+  "modules": [
+    "os",
+    "kernel",
+    "uptime",
+    "hostname",
+    "platform",
+    "shell",
+    "terminal",
+    "de",
+    "wm",
+    "theme",
+    "cpu",
+    "cpu_usage",
+    "gpu",
+    "gpu_usage",
+    "memory",
+    "swap",
+    "disk",
+    "battery",
+    "temperature",
+    "fan",
+    "ip",
+    "wifi",
+    "mac",
+    "packages",
+    "pkg_manager",
+    "updates",
+    "emoji",
+    "date",
+    "processes"
+  ]
+}

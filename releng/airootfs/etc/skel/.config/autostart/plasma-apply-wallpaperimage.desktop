@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=plasma-apply-wallpaperimage ~/Pictures/eggnoggieswallpaper.png
+Icon=
+Name=plasma-apply-wallpaperimage
+Path=
+Terminal=False
+Type=Application

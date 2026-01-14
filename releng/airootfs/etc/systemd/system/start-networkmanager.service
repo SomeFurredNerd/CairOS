@@ -1,0 +1,9 @@
+[Unit]
+Description=hacky fix to start networkmanager cause i don't fucking know what i'm doing
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash -c "systemctl start NetworkManager"
+
+[Install]
+WantedBy=multi-user.target

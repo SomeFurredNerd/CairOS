@@ -1,0 +1,23 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-125-112b19d9-2bc0-4bb8-a17b-287c50a838dd]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kdenlive.desktop,applications:com.obsproject.Studio.desktop,applications:org.prismlauncher.PrismLauncher.desktop,applications:org.vinegarhq.Vinegar.desktop,applications:com.spotify.Client.desktop,applications:org.videolan.VLC.desktop,applications:com.pokemmo.PokeMMO.desktop,file:///home/cairo/Downloads/Lunar Client-3.5.3-ow.AppImage,applications:org.vinegarhq.Sober.desktop,applications:org.mozilla.Thunderbird.desktop,applications:io.github.Soundux.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-125-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kdenlive.desktop,applications:com.obsproject.Studio.desktop,applications:org.prismlauncher.PrismLauncher.desktop,applications:org.vinegarhq.Vinegar.desktop,applications:com.spotify.Client.desktop,applications:org.videolan.VLC.desktop,applications:com.pokemmo.PokeMMO.desktop,file:///home/cairo/Downloads/Lunar Client-3.5.3-ow.AppImage,applications:org.vinegarhq.Sober.desktop,applications:org.mozilla.Thunderbird.desktop,applications:io.github.Soundux.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-24-112b19d9-2bc0-4bb8-a17b-287c50a838dd]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kdenlive.desktop,applications:com.obsproject.Studio.desktop,applications:org.prismlauncher.PrismLauncher.desktop,applications:com.spotify.Client.desktop,applications:org.vinegarhq.Sober.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-24-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kdenlive.desktop,applications:com.obsproject.Studio.desktop,applications:org.prismlauncher.PrismLauncher.desktop,applications:com.spotify.Client.desktop,applications:org.vinegarhq.Sober.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-46-112b19d9-2bc0-4bb8-a17b-287c50a838dd]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kdenlive.desktop,applications:com.obsproject.Studio.desktop,applications:org.prismlauncher.PrismLauncher.desktop,applications:com.spotify.Client.desktop,applications:org.videolan.VLC.desktop,applications:com.pokemmo.PokeMMO.desktop,file:///home/cairo/Downloads/Lunar Client-3.5.3-ow.AppImage,applications:org.vinegarhq.Vinegar.desktop,applications:org.vinegarhq.Sober.desktop,applications:org.mozilla.Thunderbird.desktop,applications:io.github.Soundux.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-46-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kdenlive.desktop,applications:com.obsproject.Studio.desktop,applications:org.prismlauncher.PrismLauncher.desktop,applications:com.spotify.Client.desktop,applications:org.videolan.VLC.desktop,applications:com.pokemmo.PokeMMO.desktop,file:///home/cairo/Downloads/Lunar Client-3.5.3-ow.AppImage,applications:org.vinegarhq.Vinegar.desktop,applications:org.vinegarhq.Sober.desktop,applications:org.mozilla.Thunderbird.desktop,applications:io.github.Soundux.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-73-112b19d9-2bc0-4bb8-a17b-287c50a838dd]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-73-global]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.discover.desktop

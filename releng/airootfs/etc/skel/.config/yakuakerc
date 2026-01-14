@@ -1,0 +1,21 @@
+[Animation]
+Frames=50
+
+[Appearance]
+BackgroundColor=255,255,255
+BackgroundColorOpacity=0
+HideSkinBorders=true
+Skin=CairoDark
+SkinInstalledWithKns=true
+Translucency=true
+
+[Desktop Entry]
+DefaultProfile=CairoProfile.profile
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=83
+KeepOpen=false
+Width=80

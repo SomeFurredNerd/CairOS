@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=systemctl start NetworkManager
+Icon=
+Name=systemctl
+Path=
+Terminal=False
+Type=Application
