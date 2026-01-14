@@ -102,6 +102,7 @@ pptpclient
 pv
 python
 python-pip
+python-psutil
 qemu-guest-agent
 qt5-declarative
 refind
