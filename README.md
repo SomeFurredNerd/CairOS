@@ -28,3 +28,6 @@ You can also build from source to get updated packages. Download the releng fold
 
 Can't tell if I was just being an idiot being new to using Git but it was being really pedantic over the permissions on these files, because afaik files in archiso require the file owner to be set to root. Dunno how it works and chances are if you're trying to do stuff with this project you know more than me LOL. Good luck :3
 ## Screenshots
+<img width="1501" height="939" alt="Screenshot_20260115_013123" src="https://github.com/user-attachments/assets/732b2d82-c8a3-4550-9da5-8b8be441f360" />
+<img width="1500" height="939" alt="Screenshot_20260115_021203" src="https://github.com/user-attachments/assets/1c253f5e-f30d-46b5-8c7f-02507111a3fa" />
+
