@@ -1,2 +1,30 @@
+
 # CairOS
-Custom ArchISO meant for recovery and maintenance,similar to the likes of Sergei Strelec and Hiren's Boot CD
+
+A customised ArchISO meant for maintenance and recovery :3c
+
+
+
+## Purpose
+
+
+I made this as a side project because I wanted my own version of an iso like Sergei Strelec. It's got a few edited versions of themes and customisations that I personally use on my main install, namely Goldy-Dark, MoeDark and MateriaDark (?) for the yakuake skin.
+
+Currently there's gnome-disks and a custom script to make chntpw (a tool to tinker with the SAM file in Windows, notably used to reset Windows passwords on local accounts) slightly more user-friendly, however I'm very open to suggestions for more tools! 
+## Purpose
+
+
+I made this as a side project because I wanted my own version of an iso like Sergei Strelec. It's got a few edited versions of themes and customisations that I personally use on my main install, namely Goldy-Dark, MoeDark and MateriaDark (?) for the yakuake skin.
+
+Currently there's gnome-disks and a custom script to make chntpw (a tool to tinker with the SAM file in Windows, notably used to reset Windows passwords on local accounts) slightly more user-friendly, however I'm very open to suggestions for more tools! 
+## Installation
+
+Download the latest iso from the releases, then write it to a installation medium (or use Ventoy)
+
+There's no password on the account, should you need it you can easily change it by running the command ```passwd -6```.
+
+You can also build from source to get updated packages. Download the releng folder and use it in the ```mkarchiso``` command as the profile. 
+## Notes
+
+Can't tell if I was just being an idiot being new to using Git but it was being really pedantic over the permissions on these files, because afaik files in archiso require the file owner to be set to root. Dunno how it works and chances are if you're trying to do stuff with this project you know more than me LOL. Good luck :3
+## Screenshots
