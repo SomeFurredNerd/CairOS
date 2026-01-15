@@ -19,7 +19,13 @@ I made this as a side project because I wanted my own version of an iso like Ser
 Currently there's gnome-disks and a custom script to make chntpw (a tool to tinker with the SAM file in Windows, notably used to reset Windows passwords on local accounts) slightly more user-friendly, however I'm very open to suggestions for more tools! 
 ## Installation
 
-Download the latest iso from the releases, then write it to a installation medium (or use Ventoy)
+Due to Github's size limits on releases, I've had to split the ISO into parts. You'll need to combine them after downloading the parts.
+
+Download the latest iso from the releases, then combine the parts. 
+
+On Windows (reportedly, can't test) you can just extract the first file with 7z and it will find the other parts and combine them. On Linux, make sure you have the 7zip utility installed, then navigate to the folder where you installed it to and run the command ```7z x CairOS-V<version>-X86_64.7z.001``` (replace <version> with the version number you have downloaded)
+
+This should produce a .iso file. Write it to a USB with a tool like Rufus, or use Ventoy. 
 
 There's no password on the account, should you need it you can easily change it by running the command ```passwd -6```.
 
