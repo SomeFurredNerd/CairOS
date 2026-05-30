@@ -27,6 +27,7 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
+egl-wayland
 espeakup
 ethtool
 exfatprogs
@@ -45,6 +46,7 @@ grub
 gwenview
 hdparm
 hyperv
+intel-media-driver
 intel-ucode
 irssi
 iw
@@ -58,6 +60,8 @@ less
 lftp
 libfido2
 libusb-compat
+libva-mesa-driver
+libva-utils
 linux
 linux-atm
 linux-firmware
@@ -72,6 +76,7 @@ mc
 mdadm
 memtest86+
 memtest86+-efi
+mesa
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
@@ -95,6 +100,7 @@ openvpn
 partclone
 parted
 partimage
+pciutils
 pcsclite
 plasma-meta
 ppp
@@ -105,6 +111,8 @@ python-pip
 python-psutil
 qemu-guest-agent
 qt5-declarative
+qt5-wayland
+qt6-wayland
 refind
 reflector
 rsync
@@ -133,11 +141,20 @@ usbutils
 vim
 virtualbox-guest-utils-nox
 vpnc
+vulkan-icd-loader
+vulkan-radeon
+vulkan-intel
 wireless-regdb
 wireless_tools
 wpa_supplicant
 wvdial
 xdg-utils
+xf86-video-amdgpu
+xf86-video-nouveau
+xf86-video-intel
+xf86-video-ati
+xf86-video-vesa
+xf86-video-fbdev
 xfsprogs
 xl2tpd
 yakuake
