@@ -4,13 +4,6 @@
 A customised ArchISO meant for maintenance and recovery :3c
 
 
-
-## Purpose
-
-
-I made this as a side project because I wanted my own version of an iso like Sergei Strelec. It's got a few edited versions of themes and customisations that I personally use on my main install, namely Goldy-Dark, MoeDark and MateriaDark (?) for the yakuake skin.
-
-Currently there's gnome-disks and a custom script to make chntpw (a tool to tinker with the SAM file in Windows, notably used to reset Windows passwords on local accounts) slightly more user-friendly, however I'm very open to suggestions for more tools! 
 ## Purpose
 
 
